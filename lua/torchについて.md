@@ -16,13 +16,15 @@ Start with our Getting Started guide to download and try Torch yourself.
 
 http://torch.ch/docs/getting-started.html
 
+torchはlua言語で動作するフレームワーク。pytorchはpythonで動作する。
 
 # pytorch
 
 https://pytorch.org/
 
->ツールとライブラリ ツールとライブラリの豊富なエコシステムは、PyTorchを拡張し、コンピュータービジョン、NLPなどの開発をサポートします。
-開発をサポートするために、ライブラリ、ツールなどの豊富なエコシステムを探索します。
+>PyTorch is an optimized tensor library for deep learning using GPUs and CPUs.
+>PyTorchは、GPUとCPUを使用した深層学習向けの最適化されたテンソルライブラリです。
+https://pytorch.org/docs/stable/index.html
 
 # どっちがいいのか?
 
